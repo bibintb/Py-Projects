@@ -1,4 +1,4 @@
-# Extraxt-YouTube-content-and-metadata  
+# Extract-YouTube-content-and-metadata  
 Project description  
 
 Features:  
