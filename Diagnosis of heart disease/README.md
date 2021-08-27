@@ -3,7 +3,6 @@ http://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.  
 
-
 age: age in years  
 sex: 1=male, 0=female  
 cp: chest pain type  
