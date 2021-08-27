@@ -1,2 +1,2 @@
 # Amazon_book
-Selling on differ platform in Amazon platform
+Selling on differ platform in Amazon.
