@@ -1,5 +1,7 @@
 ## Credits
 
+csv file is 22.3MB
+
 Credits to:
 Codeheroku
 https://github.com/codeheroku
